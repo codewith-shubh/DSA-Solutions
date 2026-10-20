@@ -10,6 +10,7 @@ My LeetCode + GFG + VS Code solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/codewith-shubh/DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/codewith-shubh/DSA-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ My LeetCode + GFG + VS Code solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/codewith-shubh/DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
 | ------- |
