@@ -9,6 +9,7 @@ My LeetCode + GFG + VS Code solutions
 | [0001-two-sum](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0042-trapping-rain-water) |
@@ -28,6 +29,7 @@ My LeetCode + GFG + VS Code solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0704-binary-search) |
