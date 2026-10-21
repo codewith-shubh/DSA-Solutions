@@ -14,6 +14,7 @@ My LeetCode + GFG + VS Code solutions
 | [0041-first-missing-positive](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0704-binary-search) |
@@ -50,6 +51,7 @@ My LeetCode + GFG + VS Code solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -58,6 +60,7 @@ My LeetCode + GFG + VS Code solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/codewith-shubh/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
